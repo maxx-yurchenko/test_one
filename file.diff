@@ -1,0 +1,8 @@
+diff --git a/2.py b/2.py
+deleted file mode 100644
+index 9fbd283..0000000
+--- a/2.py
++++ /dev/null
+@@ -1 +0,0 @@
+-print("bite me!")
+\ No newline at end of file
